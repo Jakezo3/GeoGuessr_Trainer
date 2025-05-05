@@ -1,0 +1,1 @@
+# GeoGuessr_Trainer
